@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CONOR HEFFERNAN
 
 71 Rothe Abbey, Kilmainham, Dublin 8, D08CC7Y | 087 749 7621 | cheffernan087@gmail.com | linkedin.com/in/conor-heffernan
